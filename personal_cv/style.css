@@ -204,6 +204,17 @@ header {
   color: var(--accent);
 }
 
+.blur-text {
+  filter: blur(5px);
+  transition: filter 0.3s ease;
+  user-select: none;
+}
+
+.blur-text:hover {
+  filter: blur(0);
+  cursor: pointer;
+}
+
 /* Family List */
 .family-list {
   list-style: none;
