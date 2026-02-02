@@ -84,6 +84,14 @@ modern LLMs and ML APIs.
 Managed end-to-end delivery — from client requirement gathering to MVP delivery and iteration.
 Focused on clean UI/UX, performance optimization, and custom state management solutions.
 Freelance Projects
+Developed full-featured e-commerce apps with cart, checkout, payment integration, and admin
+dashboards.
+Built lightweight, scalable apps using Firebase, REST APIs, and third-party SDKs.
+Delivered AI-enabled features: image-to-text, text-to-image generation, and chatbot interfaces using
+modern LLMs and ML APIs.
+Managed end-to-end delivery — from client requirement gathering to MVP delivery and iteration.
+Focused on clean UI/UX, performance optimization, and custom state management solutions.
+
 Flutter developer • Spectrum IT Solutions Ltd. AUG 2023 - PRESENT
 
 Experience 2+ years as IT Executive, Security Maintenance, Backstage management system, Cloud
